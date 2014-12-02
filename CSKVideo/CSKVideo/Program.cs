@@ -12,6 +12,9 @@ namespace CSKVideo
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
             Console.ReadKey();
         }
     }
